@@ -20,12 +20,15 @@ This Databricks notebook performs an in-depth analysis of stocks data for five c
 
 ## 6. Average Daily Volume
    - Daily volumes are displayed for each company, helping to identify trends and patterns.
+   - ![Analysis Image](Analysis_2.png)
 
 ## 7. Relation Between Close and Adjusted Close Values
    - The relationship between the Close and Adjusted Close values is examined for each company.
+   - ![Analysis Image](Analysis_3.png)
 
 ## 8. Day When Market Acted Bearishly
    - The day when the market has fallen the most is identified for each company.
+   - ![Analysis Image](Analysis_1.png)
 
 ## 9. Day When Market Acted Bullishly
    - The day when the market acted most bullishly (upward movement) is identified for each company.
