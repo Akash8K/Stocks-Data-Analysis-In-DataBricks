@@ -32,8 +32,12 @@ This Databricks notebook performs an in-depth analysis of stocks data for five c
 
 ## 9. Day When Market Acted Bullishly
    - The day when the market acted most bullishly (upward movement) is identified for each company.
-
+   - ![Analysis Image](Analysis_0.png)
+     
 ## 10. Yearly Volume Visualization
     - Yearly volume data is visualized for each company.
+  
 
+
+    
 Feel free to explore and adapt this notebook for your own analysis or use case.
